@@ -1,7 +1,7 @@
 # WarriorTalentGuide
 ## Info
 This is an AddOn for World of Warcraft Vanilla (v.1.12), that will show warrior players what talent to choose.
-Based on wowhead's hardcored warrior guide : https://www.hcguides.com/specs/warrior/arms#talent-builds
+Based on hcguides's hardcore warrior fury spec guide : https://www.hcguides.com/specs/warrior/arms#talent-builds
 
 ## Screenshots
 ![Image](https://github.com/user-attachments/assets/721d38c9-a613-44b6-a996-c4b8c0c92af2)
