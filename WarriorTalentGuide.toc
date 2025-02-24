@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: Warrior Talent Guide
+## Notes: Guide for warrior talent upgrades
+## Author: rmarc29 (aka TNS)
+## Version: 0.0.1
+
+WarriorTalentGuide.lua
