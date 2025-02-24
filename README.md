@@ -4,7 +4,7 @@ This is an AddOn for World of Warcraft Vanilla (v.1.12), that will show warrior 
 Based on hcguides's hardcore warrior fury spec guide : https://www.hcguides.com/specs/warrior/arms#talent-builds
 
 ## Screenshots
-![Image](https://github.com/user-attachments/assets/721d38c9-a613-44b6-a996-c4b8c0c92af2)
+![Image](https://github.com/user-attachments/assets/6488c8ad-6d74-4141-a0e5-180b6a68d05f)
 
 ## Future
 I'll try to create all the other classes guides soon enough, I'll link everything down here :
