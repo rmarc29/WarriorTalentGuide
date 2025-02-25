@@ -8,7 +8,8 @@ Based on hcguides's hardcore warrior fury spec guide : https://www.hcguides.com/
 
 ## Future
 I'll try to create all the other classes guides soon enough, I'll link everything down here :
-[Hunter Guide](https://github.com/rmarc29/HunterTalentGuide)
+- [Hunter Guide](https://github.com/rmarc29/HunterTalentGuide)
+- [Druid Guide](https://github.com/rmarc29/DruidTalentGuide)
 
 At the end my project is to try to create a single AddOn that will track which class you play so you won't have to constantly switch between them.
 
