@@ -1,4 +1,4 @@
-# WarriorTalentGuide
+# WarriorTalentGuide DEPRECATED !!! Use [Unified-Talent-Guides](https://github.com/rmarc29/Unified-Talent-Guides)
 ## Info
 This is an AddOn for World of Warcraft Vanilla (v.1.12), that will show warrior players what talent to choose.
 Based on hcguides's hardcore warrior fury spec guide : https://www.hcguides.com/specs/warrior/arms#talent-builds
